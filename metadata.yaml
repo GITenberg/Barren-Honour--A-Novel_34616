@@ -1,0 +1,27 @@
+_repo: Barren-Honour--A-Novel_34616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, George A. (George Alfred)
+    birthdate: 1827
+    deathdate: 1876
+    gutenberg_agent_id: '7126'
+    url: http://www.gutenberg.org/2009/agents/7126
+    wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Lawrence
+description: ''
+gutenberg_issued: '2010-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'Barren Honour: A Novel'
+url: http://www.gutenberg.org/ebooks/34616
